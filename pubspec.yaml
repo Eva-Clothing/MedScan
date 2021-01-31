@@ -1,4 +1,4 @@
-name: MedScan
+name: medscan
 description: A new Flutter application.
 
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
@@ -21,7 +21,7 @@ dependencies:
   filter_list: ^0.0.5
   curved_navigation_bar: ^0.3.4
   image_picker: ^0.6.7+14
-
+  firebase_storage: ^4.0.1
   uuid: ^2.2.2
   intl: ^0.16.1
 

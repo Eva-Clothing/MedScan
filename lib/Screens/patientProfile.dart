@@ -1,10 +1,10 @@
-import 'package:MedScan/constants.dart';
-import 'package:MedScan/widgets/item_tag.dart';
-import 'package:MedScan/widgets/profile_item.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:medscan/constants.dart';
+import 'package:medscan/widgets/item_tag.dart';
+import 'package:medscan/widgets/profile_item.dart';
 
 class PatientProfile extends StatefulWidget {
   @override

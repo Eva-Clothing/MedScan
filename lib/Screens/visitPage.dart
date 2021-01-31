@@ -1,6 +1,6 @@
-import 'package:MedScan/widgets/custom_clippers/index.dart';
-import 'package:MedScan/widgets/task/TaskList.dart';
 import 'package:flutter/material.dart';
+import 'package:medscan/widgets/custom_clippers/index.dart';
+import 'package:medscan/widgets/task/TaskList.dart';
 
 class VisitScreen extends StatelessWidget {
   final visitData;

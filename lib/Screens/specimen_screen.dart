@@ -1,9 +1,9 @@
-import 'package:MedScan/widgets/specimenTile.dart';
 import 'package:barcode_scan_fix/barcode_scan.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
+import 'package:medscan/widgets/specimenTile.dart';
 
 import '../constants.dart';
 

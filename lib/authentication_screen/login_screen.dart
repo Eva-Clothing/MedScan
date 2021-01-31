@@ -1,8 +1,8 @@
-import 'package:MedScan/Screens/barcodeScanScreen.dart';
-import 'package:MedScan/authentication_screen/verify_login.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
+import 'package:medscan/Screens/barcodeScanScreen.dart';
+import 'package:medscan/authentication_screen/verify_login.dart';
 
 import 'authservice.dart';
 import 'numeric_pad.dart';

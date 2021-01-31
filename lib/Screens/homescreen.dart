@@ -1,17 +1,17 @@
-import 'package:MedScan/Screens/barcodeScanScreen.dart';
-import 'package:MedScan/Screens/dailyVisit.dart';
-import 'package:MedScan/Screens/patientProfile.dart';
-import 'package:MedScan/Screens/specimen_screen.dart';
-import 'package:MedScan/authentication_screen/authservice.dart';
-import 'package:MedScan/authentication_screen/login_screen.dart';
-import 'package:MedScan/theme/extention.dart';
-import 'package:MedScan/theme/light_color.dart';
-import 'package:MedScan/theme/text_styles.dart';
-import 'package:MedScan/theme/theme.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
+import 'package:medscan/Screens/barcodeScanScreen.dart';
+import 'package:medscan/Screens/dailyVisit.dart';
+import 'package:medscan/Screens/patientProfile.dart';
+import 'package:medscan/Screens/specimen_screen.dart';
+import 'package:medscan/authentication_screen/authservice.dart';
+import 'package:medscan/authentication_screen/login_screen.dart';
+import 'package:medscan/theme/extention.dart';
+import 'package:medscan/theme/light_color.dart';
+import 'package:medscan/theme/text_styles.dart';
+import 'package:medscan/theme/theme.dart';
 
 import '../constants.dart';
 

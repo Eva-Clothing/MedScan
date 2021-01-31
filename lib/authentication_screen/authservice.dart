@@ -1,7 +1,7 @@
-import 'package:MedScan/Screens/barcodeScanScreen.dart';
-import 'package:MedScan/authentication_screen/login_screen.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:medscan/Screens/barcodeScanScreen.dart';
+import 'package:medscan/authentication_screen/login_screen.dart';
 
 class AuthService {
   //Handles Auth

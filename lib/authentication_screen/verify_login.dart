@@ -1,6 +1,6 @@
-import 'package:MedScan/Screens/barcodeScanScreen.dart';
-import 'package:MedScan/authentication_screen/authservice.dart';
 import 'package:flutter/material.dart';
+import 'package:medscan/Screens/barcodeScanScreen.dart';
+import 'package:medscan/authentication_screen/authservice.dart';
 
 import 'numeric_pad.dart';
 
